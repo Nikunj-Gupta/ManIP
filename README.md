@@ -17,9 +17,8 @@ PHP was used. Many things like UI design came as a learning by-product. Managing
 ### Usage
 
 * You need to have [Xampp][xampp] or any other localhost running software. Download the zip and put it in the **htdocs** folder.
-* To run the website, you need to run the localhost and then use ManIP as to access the website.
-    ```localhost/ManIP/login.php```.
-* For reading more on what are the OPFs (obligations, permitions and features) of the application, see [**IP Policy SRS.doc**][SRS].
+* To run the website, you need to run the localhost and then use ManIP as to access the website. ```localhost/ManIP/login.php```.
+* For reading more on what are the OPFs (obligations, permitions and features) of the application, see [**IP Policy SRS.doc**][SRS]. 
 * Also read the Conceptual Model of the application: [**Conceptual Model.pdf**][model].
 
 ### Acknowledgements
