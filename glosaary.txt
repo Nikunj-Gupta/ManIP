@@ -1,0 +1,5 @@
+glosaary.txt
+
+ticket -> IP Asset
+admin -> IP Committee
+ipc -> director
