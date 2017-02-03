@@ -32,5 +32,5 @@ Want to contribute? Great!
 
    [profss]: <http://www.iiitb.ac.in/faculty_page.php?name=SrinathSrinivasa>
    [xampp]: <https://www.apachefriends.org/index.html>
-   [model]: <>
-   [SRS]: <>
+   [model]: <https://github.com/Nikunj-Gupta/ManIP/blob/master/Conceptual%20Model.pdf>
+   [SRS]: <https://github.com/Nikunj-Gupta/ManIP/blob/master/IP%20Policy%20SRS.docx>
